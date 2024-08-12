@@ -1,5 +1,5 @@
-# Example Import Dojo
+# OSCP_Practice
 
-This repositories features an example dojo, which imports from [pwncollege/example-dojo](https://github.com/pwncollege/example-dojo).
+This is a dojo dedicated to practicing for the OSCP...
 
-The dojo is defined by [dojo.yml](./dojo.yml).
+Try Harder.
